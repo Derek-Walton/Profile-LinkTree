@@ -27,7 +27,7 @@ Users should be able to:
 ![mobile view screenshot](./my-design/mobile-view.png)
 
 ### Active Link
-[Try it out!](https://derek-walton.github.io/Responsive-Webpage/)
+[Try it out!](https://derek-walton.github.io/Profile-LinkTree/)
 
 ## My process
 
