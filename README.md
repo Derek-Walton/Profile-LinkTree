@@ -21,10 +21,10 @@ Users should be able to:
 ### Screenshot
 
 ### Desktop view
-![desktop view screenshot](./my-design/desktop-view2.png)
+![desktop view screenshot](./my-design/desktop-view.png)
 
 ### Mobile view
-![mobile view screenshot](./my-design/mobile-view2.png)
+![mobile view screenshot](./my-design/mobile-view.png)
 
 ### Active Link
 [Try it out!](https://derek-walton.github.io/Responsive-Webpage/)
